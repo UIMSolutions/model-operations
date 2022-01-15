@@ -1,4 +1,4 @@
-module uim.entities.operations.supplychain.salesAndMarketing;
+module models.operations.entities.supplychain.salesAndMarketing;
 
 @safe:
 import uim.entities;

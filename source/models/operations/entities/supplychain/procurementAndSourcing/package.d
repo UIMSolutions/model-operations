@@ -1,4 +1,4 @@
-module uim.entities.operations.supplychain.procurementAndSourcing;
+module models.operations.entities.supplychain.procurementAndSourcing;
 
 @safe:
 import uim.entities;

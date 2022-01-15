@@ -1,4 +1,4 @@
-module uim.entities.operations.common;
+module models.operations.entities.common;
 
 @safe:
 import uim.entities;

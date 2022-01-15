@@ -1,4 +1,4 @@
-module uim.entities.operations.supplychain.wms;
+module models.operations.entities.supplychain.wms;
 
 @safe:
 import uim.entities;

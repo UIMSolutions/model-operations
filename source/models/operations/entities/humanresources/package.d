@@ -1,7 +1,7 @@
-module uim.entities.operations.humanresources;
+module models.operations.entities.humanresources;
 
 @safe:
 import uim.entities;
 
-public import uim.entities.operations.humanresources.hrm;
-public import uim.entities.operations.humanresources.payroll;
+public import models.operations.entities.humanresources.hrm;
+public import models.operations.entities.humanresources.payroll;

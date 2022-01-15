@@ -1,4 +1,4 @@
-module uim.entities.operations.humanresources.payroll;
+module models.operations.entities.humanresources.payroll;
 
 @safe:
 import uim.entities;

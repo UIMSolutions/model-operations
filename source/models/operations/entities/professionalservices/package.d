@@ -1,4 +1,4 @@
-module uim.entities.operations.professionalservices;
+module models.operations.entities.professionalservices;
 
 @safe:
 import uim.entities;

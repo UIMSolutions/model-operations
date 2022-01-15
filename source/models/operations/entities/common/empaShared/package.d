@@ -1,4 +1,4 @@
-module uim.entities.operations.common.empaShared;
+module models.operations.entities.common.empaShared;
 
 @safe:
 import uim.entities;

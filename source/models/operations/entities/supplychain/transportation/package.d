@@ -1,4 +1,4 @@
-module uim.entities.operations.supplychain.transportation;
+module models.operations.entities.supplychain.transportation;
 
 @safe:
 import uim.entities;

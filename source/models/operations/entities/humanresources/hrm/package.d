@@ -1,4 +1,4 @@
-module uim.entities.operations.humanresources.hrm;
+module models.operations.entities.humanresources.hrm;
 
 @safe:
 import uim.entities;

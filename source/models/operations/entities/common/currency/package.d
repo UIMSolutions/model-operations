@@ -1,4 +1,4 @@
-module uim.entities.operations.common.currency;
+module models.operations.entities.common.currency;
 
 @safe:
 import uim.entities;

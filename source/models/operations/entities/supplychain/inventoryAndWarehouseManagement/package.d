@@ -1,4 +1,4 @@
-module uim.entities.operations.supplychain.inventoryAndWarehouse_management;
+module models.operations.entities.supplychain.inventoryAndWarehouse_management;
 
 @safe:
 import uim.entities;

@@ -1,12 +1,12 @@
-module uim.entities.operations;
+module models.operations.entities;
 
 @safe:
 import uim.entities;
 
-public import uim.entities.operations.commerce;
-public import uim.entities.operations.common;
-public import uim.entities.operations.finance;
-public import uim.entities.operations.humanresources;
-public import uim.entities.operations.professionalservices;
-public import uim.entities.operations.supplychain;
+public import models.operations.entities.commerce;
+public import models.operations.entities.common;
+public import models.operations.entities.finance;
+public import models.operations.entities.humanresources;
+public import models.operations.entities.professionalservices;
+public import models.operations.entities.supplychain;
 

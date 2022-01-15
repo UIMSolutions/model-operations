@@ -1,4 +1,4 @@
-module uim.entities.operations.supplychain.costAccounting;
+module models.operations.entities.supplychain.costAccounting;
 
 @safe:
 import uim.entities;
